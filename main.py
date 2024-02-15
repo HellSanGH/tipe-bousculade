@@ -1,6 +1,11 @@
+# Authors : HellSan_HC & Sewrslvtt
+
+
 import pygame
 
+
 pygame.init()
+
 clock = pygame.time.Clock()
 
 screen = pygame.display.set_mode((1280, 720))
