@@ -1,8 +1,4 @@
-# Authors : HellSan_HC & Sewrslvtt
-
-
 import pygame
-
 
 pygame.init()
 
@@ -13,7 +9,7 @@ pygame.display.set_caption("TIPE : évolution")
 
 run = True
 while run: 
-    screen.fill((40, 35, 40))
+    screen.fill((37, 35, 37))
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT: 
